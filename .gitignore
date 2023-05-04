@@ -3,6 +3,8 @@
 ################################################################################
 
 /Socket/.vs
+/Socket/x64
+/Socket/x86
 /Socket/Client/x64
 /Socket/Client/x86
 /Socket/Server/x64

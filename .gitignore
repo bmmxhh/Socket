@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Socket/.vs
+/Socket/Client/x64
+/Socket/Client/x86
+/Socket/Server/x64
+/Socket/Server/x86
+/Socket/Bin
